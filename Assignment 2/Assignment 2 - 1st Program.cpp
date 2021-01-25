@@ -1,3 +1,7 @@
+/*
+This program is supposed to read the input of 8 numbers and find the sum, product and average of the numbers.
+*/
+
 #include <iostream>
 using namespace std;
 
