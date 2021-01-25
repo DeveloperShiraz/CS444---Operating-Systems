@@ -1,3 +1,10 @@
+/*
+This program is supposed to ask the user to input number from 1-5 according to the destinations which are:
+1. Hawaii, 2. Bahamas, 3. Cancun, 4. Las Vegas, 5. Europe.
+Then it's supposed to ask the airline that the user wants to take to fly to their desired destination.
+*FYI: The prices are fictional. This program doesn't calculate realtime prices.*
+*/
+
 #include <iostream>
 using namespace std;
 int main() {
