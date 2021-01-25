@@ -1,3 +1,7 @@
+/*
+This program asks for the name which is a string and just displays it.
+*/
+
 #include <iostream>
 using namespace std;
 
