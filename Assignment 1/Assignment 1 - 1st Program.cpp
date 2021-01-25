@@ -1,3 +1,8 @@
+/*
+This program is supposed to read the integer from the input and just display it.
+*/
+
+
 #include <iostream>
 using namespace std;
 
