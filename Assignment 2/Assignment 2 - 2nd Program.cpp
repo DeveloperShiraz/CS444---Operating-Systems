@@ -1,3 +1,7 @@
+/*
+This program is supposed to read the collective of integer numbers. If the 15>Number>0. Then the program is supposed to terminate the loop and find the factorial of the number.
+*/
+
 #include <iostream>
 using namespace std;
 
