@@ -1,3 +1,7 @@
+/*
+This program reads the name of the students, the courses that they took, and their exams froma text file.
+Then it calculates GPA of the students.
+*/
 #include<iostream>
 #include<fstream>
 #include<vector>
